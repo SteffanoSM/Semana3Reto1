@@ -114,7 +114,7 @@ table tr{
     border-bottom: 1px solid #adabab;
 }
 
-#element{
+.element{
     color: hsl(14, 45%, 36%);
 }
 
