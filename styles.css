@@ -118,3 +118,15 @@ table tr{
     color: hsl(14, 45%, 36%);
 }
 
+.prepTime ul li::marker{
+    color: hsl(332, 51%, 32%);
+}
+
+.instructions ol li::marker{
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+.ingredients ul li::marker{
+    color: hsl(14, 45%, 36%);
+}
